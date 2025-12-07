@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ラッシャイナ",
+  "base_artist": "柊マグネタイト",
+  "createdAt": "2025-12-07T08:22:49.521403Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラッシャイナ",
+      "artist": "柊マグネタイト",
+      "has_synced": true,
+      "path": "select/01_ラッシャイナ_柊マグネタイト.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラッシャイナ",
+      "artist": "柊マグネタイト",
+      "has_synced": false,
+      "path": "select/pl_01_ラッシャイナ_柊マグネタイト.txt"
+    }
+  ]
+}
